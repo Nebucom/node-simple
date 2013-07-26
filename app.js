@@ -1,5 +1,3 @@
-// c30cd90ab8f0
-
 /**
  * Module dependencies.
  */
