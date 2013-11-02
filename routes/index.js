@@ -2,6 +2,7 @@
 /*
  * GET home page.
  */
+
 var package = require('../package.json');
 
 exports.index = function(req, res) {
